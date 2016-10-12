@@ -1,0 +1,11 @@
+{
+  "name": "trika-web-app",
+  "version": "0.1.0",
+  "description": "App para Gestion de pedidos",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Eder Ramos Morales",
+  "license": "ISC"
+}
